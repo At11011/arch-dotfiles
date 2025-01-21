@@ -41,5 +41,3 @@ case ":$PATH:" in
 esac
 
 # <<< juliaup initialize <<<
-
-source /home/nathaniel/.config/broot/launcher/bash/br
